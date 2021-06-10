@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gitrepotest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-10T03:52:05.666415797Z"
+    description: helm git repo testing
+    digest: 91fe7320d343252e5ae2a7910bc34d31eb5a7120e0020c8f7c3eed3fa463f882
+    name: gitrepotest
+    type: application
+    urls:
+    - gitrepotest-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-06-10T03:52:05.665569126Z"
